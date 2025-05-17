@@ -1,0 +1,5 @@
+segun 99a hacer{
+	caso A: imprimir("Hola!");
+	caso B: imprimir("nos vemos...");
+	defecto: salir;
+}finsegun
